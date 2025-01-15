@@ -117,7 +117,7 @@ Per a les comandes de repartiment a domicili, cal registrar el repartidor/a assi
 
 # Tecnologies Utilitzades
 
-MySQLWorkbench, Terminal, Git and GitHub
+MongoDB, Terminal, Git and GitHub
 
 # Requisits
 
@@ -125,7 +125,7 @@ Nothing
 
 # Instal·lació
 
-MySQLWorkbench
+MongoDB
 
 # Execució
 
